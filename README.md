@@ -1,8 +1,4 @@
-# 👋 Hola, soy Gustavo Jimenez
-
-💻 **Programador Backend** con experiencia en Python (Flask, Django) y Node.js.  
-🌱 Apasionado por el desarrollo de software escalable, APIs y la automatización de procesos.  
-🚀 Actualmente busco reincorporarme al sector IT para aportar soluciones en equipos ágiles.  
+# Gustavo Jimenez
 
 ---
 
@@ -54,24 +50,34 @@ Aplicación web con estructura modular, HTML + CSS y manejo de imágenes.
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoJimenezz&show_icons=true&theme=tokyonight)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoJimenezz&show_icons=true&hide=stars,followers&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoJimenezz&layout=compact&theme=tokyonight)
 
 ---
+## Formación
 
-## 🎓 Formación
+### Educación formal
+- **Tecnicatura en Programación – UNLZ (2023–2025)**
 
-- **Tecnicatura en Programación – UNLZ (2023–2025)**  
-- Cursos: NodeJS (Codo a Codo 2024), Python Avanzado (UTN 2024), Desarrollo con Python (Onapsis 2022), Diseño y Programación Web (Da Vinci 2021).  
+### Cursos y certificaciones
+- **NodeJS – Codo a Codo (2024)**  
+  JavaScript, Node.js, Express, HTML, CSS, Sequelize, JWT, Bootstrap, Tailwind.  
+  Desarrollo y despliegue de aplicaciones web, APIs REST y sistemas de autenticación.
 
+- **Python 3 Avanzado – UTN Centro de e-learning (2024)**  
+  Asyncio, patrones de desarrollo, metaclasses, decoradores, namespaces y programación avanzada en Python.
+
+- **Desarrollo de Software con Python – Onapsis / Puerta18 (2022)**  
+  Programación orientada a objetos, TDD, Flask, API REST, entornos virtuales.
+
+- **Diseño y Programación Web – Escuela Da Vinci (2021)**  
+  Maquetado en HTML5 y CSS3, UX/UI, prototipado, tratamiento de imágenes y accesibilidad web.
 ---
 
-## 📫 Contacto
+## Contacto
 
 - 📧 [gustavo.jimenez.crespo@gmail.com](mailto:gustavo.jimenez.crespo@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-jimenez-crespo-93a1b5186)  
 - 🖥️ [GitHub](https://github.com/gustavoJimenezz)  
 
 ---
-✨ *Gracias por visitar mi perfil. Siempre abierto a colaborar en proyectos interesantes.* 🚀
-
