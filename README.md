@@ -35,6 +35,25 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
+## Formación
+
+### Educación formal
+- **Tecnicatura en Programación – UNLZ (2023–2025)**
+
+### Cursos y certificaciones
+- **NodeJS – Codo a Codo (2024)**  
+  JavaScript, Node.js, Express, HTML, CSS, Sequelize, JWT, Bootstrap, Tailwind.  
+  Desarrollo y despliegue de aplicaciones web, APIs REST y sistemas de autenticación.
+
+- **Python 3 Avanzado – UTN Centro de e-learning (2024)**  
+  Asyncio, patrones de desarrollo, metaclasses, decoradores, namespaces y programación avanzada en Python.
+
+- **Desarrollo de Software con Python – Onapsis / Puerta18 (2022)**  
+  Programación orientada a objetos, TDD, Flask, API REST, entornos virtuales.
+
+- **Diseño y Programación Web – Escuela Da Vinci (2021)**  
+  Maquetado en HTML5 y CSS3, UX/UI, prototipado, tratamiento de imágenes y accesibilidad web.
+---
 
 ## 📂 Proyectos Destacados
 
@@ -54,28 +73,9 @@ Sitio web estático con diseño responsive, buenas prácticas de maquetado y acc
 Proyecto fullstack con backend en Node.js + TypeScript, Express y Sequelize, frontend en React, gestión de usuarios y sesiones, despliegue de APIs y base de datos.
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoJimenezz&show_icons=true&hide=stars,followers&theme=tokyonight)
----
-## Formación
-
-### Educación formal
-- **Tecnicatura en Programación – UNLZ (2023–2025)**
-
-### Cursos y certificaciones
-- **NodeJS – Codo a Codo (2024)**  
-  JavaScript, Node.js, Express, HTML, CSS, Sequelize, JWT, Bootstrap, Tailwind.  
-  Desarrollo y despliegue de aplicaciones web, APIs REST y sistemas de autenticación.
-
-- **Python 3 Avanzado – UTN Centro de e-learning (2024)**  
-  Asyncio, patrones de desarrollo, metaclasses, decoradores, namespaces y programación avanzada en Python.
-
-- **Desarrollo de Software con Python – Onapsis / Puerta18 (2022)**  
-  Programación orientada a objetos, TDD, Flask, API REST, entornos virtuales.
-
-- **Diseño y Programación Web – Escuela Da Vinci (2021)**  
-  Maquetado en HTML5 y CSS3, UX/UI, prototipado, tratamiento de imágenes y accesibilidad web.
 ---
 
 ## Contacto
