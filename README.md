@@ -51,9 +51,6 @@ Aplicación web con estructura modular, HTML + CSS y manejo de imágenes.
 ## 📊 Estadísticas de GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoJimenezz&show_icons=true&hide=stars,followers&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoJimenezz&layout=compact&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoJimenezz&layout=compact&theme=tokyonight&count_private=true&include_forks=true)
-
 ---
 ## Formación
 
