@@ -1,7 +1,5 @@
 # Gustavo Jimenez
 
----
-
 ## 🛠️ Tecnologías & Herramientas
 
 **Lenguajes:**  
@@ -35,7 +33,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-## Formación
+
+## 🎓 Formación
 
 ### Educación formal
 - **Tecnicatura en Programación – UNLZ (2023–2025)**
@@ -53,6 +52,7 @@
 
 - **Diseño y Programación Web – Escuela Da Vinci (2021)**  
   Maquetado en HTML5 y CSS3, UX/UI, prototipado, tratamiento de imágenes y accesibilidad web.
+
 ---
 
 ## 📂 Proyectos Destacados
@@ -69,19 +69,19 @@ Proyecto integrador con autenticación JWT, rutas protegidas, manejo de bases de
 🔹 **[Maquetado Web (HTML + CSS)](https://github.com/gustavoJimenezz/maquteado-web-css-html)**  
 Sitio web estático con diseño responsive, buenas prácticas de maquetado y accesibilidad.
 
-🔹 **[Colaboracion página ActivaFitness - Tesina (Node.js + TypeScript + Express + Sequelize + React)](https://github.com/FrancoSeccaspina/proyectoFinal.io)**  
-Proyecto fullstack con backend en Node.js + TypeScript, Express y Sequelize, frontend en React, gestión de usuarios y sesiones, despliegue de APIs y base de datos.
+🔹 **[Página ActivaFitness (Node.js + TypeScript + Express + Sequelize + React)](https://github.com/FrancoSeccaspina/proyectoFinal.io)**  
+Proyecto fullstack con backend en Node.js + TypeScript, Express y Sequelize, frontend en React, gestión de usuarios y sesiones, APIs y base de datos.
+
 ---
 
-## Estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoJimenezz&show_icons=true&hide=stars,followers&theme=tokyonight)
+
 ---
 
-## Contacto
+## 📫 Contacto
 
 - 📧 [gustavo.jimenez.crespo@gmail.com](mailto:gustavo.jimenez.crespo@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-jimenez-crespo-93a1b5186)  
-- 🖥️ [GitHub](https://github.com/gustavoJimenezz)  
-
----
+- 🖥️ [GitHub](https://github.com/gustavoJimenezz)
