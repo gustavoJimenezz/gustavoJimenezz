@@ -86,5 +86,4 @@ Proyecto fullstack con backend en Node.js + TypeScript, Express y Sequelize, fro
 - 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-jimenez-crespo-93a1b5186)  
 - 🖥️ [GitHub](https://github.com/gustavoJimenezz)
 
-[![CV](https://img.shields.io/badge/Descargar_CV-PDF-blue?style=flat&logo=adobeacrobat&logoColor=white)](jimenezCV2025-v01.pdf)
-
+[![CV](https://img.shields.io/badge/Abrir_CV-PDF-blue?style=flat&logo=adobeacrobat&logoColor=white)](jimenezCV2025-v01.pdf)
