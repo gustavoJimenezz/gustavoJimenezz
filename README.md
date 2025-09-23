@@ -38,14 +38,20 @@
 
 ## 📂 Proyectos Destacados
 
-🔹 **[Sistema de Reservas (Node.js + React)](https://github.com/gustavoJimenezz)**  
-Autenticación JWT, arquitectura MVC, APIs REST y MySQL con Sequelize.  
+🔹 **[Sistema de Reservas - Hotel (Node.js + Express + Sequelize)](https://github.com/gustavoJimenezz/hotel-tp-5cuatri-Niglio)**  
+Backend con Node.js, Express y Sequelize, integración con bases de datos MySQL, rutas REST y autenticación.
 
-🔹 **[App Web CABA - Diario Digital](https://github.com/gustavoJimenezz/appweb_caba_2c_2024)**  
-Aplicación web con estructura modular, HTML + CSS y manejo de imágenes.  
+🔹 **[CodoViajero 2.0 (Node.js + React)](https://github.com/gustavoJimenezz/codo-a-codo-codoViajero-2.0-nodejs)**  
+Aplicación de viajes con frontend en React, backend en Node.js y Express, APIs REST y manejo de datos con Sequelize.
 
-*(Podés pinear en tu perfil los repos más importantes para destacarlos arriba ⬆️)*  
+🔹 **[Trabajo Práctico Integrador - CodoViajero (Node.js)](https://github.com/gustavoJimenezz/codo-a-codo-trabajo-practico-integrador-CodoViajero-nodejs)**  
+Proyecto integrador con autenticación JWT, rutas protegidas, manejo de bases de datos y arquitectura MVC.
 
+🔹 **[Maquetado Web (HTML + CSS)](https://github.com/gustavoJimenezz/maquteado-web-css-html)**  
+Sitio web estático con diseño responsive, buenas prácticas de maquetado y accesibilidad.
+
+🔹 **[Colaboracion página ActivaFitness - Tesina (Node.js + TypeScript + Express + Sequelize + React)](https://github.com/FrancoSeccaspina/proyectoFinal.io)**  
+Proyecto fullstack con backend en Node.js + TypeScript, Express y Sequelize, frontend en React, gestión de usuarios y sesiones, despliegue de APIs y base de datos.
 ---
 
 ## 📊 Estadísticas de GitHub
